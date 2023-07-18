@@ -11,10 +11,10 @@
 ## Steps follwed for data analysis-
 - Change the format of data to table.
 - Calculate SUM,AVERAGE,MIN,MAX,COUNT.
-- Creating pivot table.Useing the PivotTable feature to create a pivot table that displays the Department field in the 
+- Creating pivot table. Using the PivotTable feature to create a pivot table that displays the Department field in the 
    Rows section, and the Equipment Count in the Values section, so that the pivot table displays the sum of equipment 
   count by department.
-- Sort the pivot table data.Use the Sort By Value setting on the pivot table to sort it in descending order by the sum 
+- Sort the pivot table data. Use the Sort By Value setting on the pivot table to sort it in descending order by the sum 
   of equipment count.
 - Creating similar 2 more pivot tables.
 - Analyzing the data in pivot table -
