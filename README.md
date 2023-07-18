@@ -1,5 +1,4 @@
 # Excel project 1
-##
 -
   ### [Raw CSV File](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_Cleaned_data.xlsx)
 ## Step follwed for data cleaning-
