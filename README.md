@@ -1,12 +1,12 @@
-Excel_Project_1
+#Excel_Project_1
    
-*Step follwed for data cleaning-
+##Step follwed for data cleaning-
 *1.Converting csv file to xlsx form.
 *2.Remove empty rows.
-3.Remove duplicate rows.
-4.Checking for spelling mistakes and fixing them.
-5.Finding and replacing double spaces from the data.
-6.While importing the csv file department name was not imported correctly. It got split into two columns. So we need to 
+*3.Remove duplicate rows.
+*4.Checking for spelling mistakes and fixing them.
+*5.Finding and replacing double spaces from the data.
+*6.While importing the csv file department name was not imported correctly. It got split into two columns. So we need to 
   merge it.
 
 Steps follwed for data analysis-
