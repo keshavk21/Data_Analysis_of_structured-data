@@ -22,9 +22,9 @@
   of equipment count.
 - Creating similar 2 more pivot tables.
 - Analyzing the data in pivot table -
-   - (a)In pivot table 2 add the Equipment Class field below the Department field so that the different vehicle types 
+   - (a) In pivot table 2 add the Equipment Class field below the Department field so that the different vehicle types 
       appear under each department with their respective counts.
-   - (b)In pivot table 3 add the Equipment Class field above the Department field so that the different vehicle types 
+   - (b) In pivot table 3 add the Equipment Class field above the Department field so that the different vehicle types 
       appear first, with the different departments listed underneath each vehicle type with their respective counts.
     ### **[Analyzed Data](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_Analyzed_Data.XLSX)
 
