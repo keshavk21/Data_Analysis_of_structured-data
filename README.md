@@ -14,7 +14,7 @@
 
 ## Steps follwed for data analysis-
 - Change the format of data to table.
-- Calculate SUM,AVERAGE,MIN,MAX,COUNT.
+- Calculate SUM, AVERAGE, MIN, MAX, COUNT.
 - Creating pivot table. Using the PivotTable feature to create a pivot table that displays the Department field in the 
    Rows section, and the Equipment Count in the Values section, so that the pivot table displays the sum of equipment 
   count by department.
