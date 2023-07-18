@@ -1,8 +1,8 @@
 Excel_Project_1
-
-Step follwed for data cleaning-
-1.Converting csv file to xlsx form.
-2.Remove empty rows.
+   
+*Step follwed for data cleaning-
+*1.Converting csv file to xlsx form.
+*2.Remove empty rows.
 3.Remove duplicate rows.
 4.Checking for spelling mistakes and fixing them.
 5.Finding and replacing double spaces from the data.
