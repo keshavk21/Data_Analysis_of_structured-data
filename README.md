@@ -1,6 +1,6 @@
 Excel_Project_1
 
-Step follwed for data cleaning-/n
+Step follwed for data cleaning-
 1.Converting csv file to xlsx form.
 2.Remove empty rows.
 3.Remove duplicate rows.
