@@ -1,5 +1,5 @@
 # Excel project 1
-
+  ### **[Raw CSV File](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_Cleaned_data.xlsx)
 ## Step follwed for data cleaning-
 - Converting csv file to xlsx form.
 - Remove empty rows.
@@ -8,6 +8,10 @@
 - Finding and replacing double spaces from the data.
 - While importing the csv file department name was not imported correctly. It got split into 
   two columns. So we need to merge it.
+  ### **[Cleaned and Prepared Data](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_Cleaned_data.xlsx)
+
+
+
 ## Steps follwed for data analysis-
 - Change the format of data to table.
 - Calculate SUM,AVERAGE,MIN,MAX,COUNT.
@@ -22,7 +26,7 @@
       appear under each department with their respective counts.
    - (b)In pivot table 3 add the Equipment Class field above the Department field so that the different vehicle types 
       appear first, with the different departments listed underneath each vehicle type with their respective counts.
-
+    ### **[Analyzed Data](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_Analyzed_Data.XLSX)
 
 
 
